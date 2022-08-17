@@ -1,0 +1,13 @@
+configuration {
+  fullscreen: false;
+  show-icons:         true;
+  icon-theme:         "Zafiro";
+  terminal:           "xfce4-terminal";
+  cycle:              false;
+  hide-scrollbar:     true;
+  disable-history:    false;
+  combi: [drun,window,rum];
+  modi: "window,run,ssh,combi,drun"; 
+}
+
+@theme "gruvbox-dark"
