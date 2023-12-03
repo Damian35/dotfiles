@@ -114,7 +114,7 @@ Plug 'pangloss/vim-javascript'    " JavaScript support.
 Plug 'HerringtonDarkholme/yats.vim'     "TypeScript syntax.
 Plug 'sheerun/vim-polyglot'
 Plug 'mustache/vim-mustache-handlebars'
-Plug 'scrooloose/nerdtree'
+Plug 'preservim/nerdtree'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'airblade/vim-gitgutter'
 Plug 'neoclide/coc.nvim' , { 'branch' : 'release' }
