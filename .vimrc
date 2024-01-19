@@ -30,6 +30,7 @@ set noshowmode          "Always show which more are we in
 set showcmd           "show partial commands in the last line of the screen
 set laststatus=2      "Always show statusbar  
 set wildmenu          "Enable visual wildmenu  
+set wildoptions=pum   "Neovim manu
 set ruler             "Enable ruler  
 
 set nowrap              "Automatically wrap text that extends beyond the screen length  
