@@ -134,7 +134,7 @@ Plug 'mattn/emmet-vim'
 Plug 'honza/vim-snippets'
 "Plug 'sudar/vim-arduino-snippets'
 "Plug 'voldikss/vim-floaterm'
-Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
+"Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
 
 call plug#end()
 
